@@ -14,5 +14,5 @@ obsolete/*
 icml16results/*
 nips16results/*
 *.sh#
-
+.DS_Store
 
