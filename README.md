@@ -1,5 +1,5 @@
 # Grid-world-Generator
-Dataset generator of grid-world domains for [Transfer Value Iteration Networks](https://github.com/shenjunyi/Transfer-VIN)(TVIN)<br>
+Dataset generator of grid-world domains for [Transfer Value Iteration Networks](https://github.com/shenjunyi/Transfer-VIN)(TVIN), for example:<br>
 ![](https://github.com/shenjunyi/Grid-world-Generator/blob/master/Example/a8_8.jpg)
 ![](https://github.com/shenjunyi/Grid-world-Generator/blob/master/Example/16f.jpg)
 ## Requires
