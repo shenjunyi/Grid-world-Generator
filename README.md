@@ -1,6 +1,6 @@
 # Grid-world-Generator
 Dataset generator of grid-world domains for [Transfer Value Iteration Networks](https://github.com/shenjunyi/Transfer-VIN)(TVIN)<br>
-![](https://github.com/shenjunyi/Grid-world-Generator/blob/master/grid-world/16f.png]
+![](https://github.com/shenjunyi/Grid-world-Generator/blob/master/Example/a4_8.jpg]
 ## Requires
 For generating the ramdon gridworld data, requires:
 
